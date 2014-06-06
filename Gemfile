@@ -6,7 +6,6 @@ gem 'devise', '~> 2.2.0'
 gem 'devise-neo4j', :git => 'https://github.com/cfitz/devise-neo4j.git', :branch => 'devise2'
 gem 'neo4j-will_paginate'
 gem 'will_paginate'
-gem 'neo4j-admin'
 
 gem 'twitter' #, '1.7.2'
 
