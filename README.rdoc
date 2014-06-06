@@ -31,8 +31,7 @@ $>rails s
 
 == References
 
-1. https://github.com/cfitz/devise-neo4j/tree/devise2
-2. https://github.com/andreasronge/kvitter
+1. https://github.com/andreasronge/kvitter
 
 
 == Support
